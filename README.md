@@ -6,5 +6,5 @@ Man, Github can be *very* confusing when first trying it out. Some of the featur
 ## Interests
 I have a group of friends that participate in Game Jams every so often, and I would enjoy learning about Github and how to use it effectivly so that I understand what is going on when viewing and editing Github pages
 
-##Confusions
+## Confusions
 Forks and pull requests just dont make a ton of sense to me. I need to take the time to figure them out and understand them.
